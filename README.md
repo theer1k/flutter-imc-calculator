@@ -1,4 +1,4 @@
-# App #1 - Calculadora de IMC
+# App #2 - Calculadora de IMC
 
 App #1 do curso https://www.udemy.com/curso-completo-flutter-app-android-ios/
 
